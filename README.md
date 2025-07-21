@@ -47,5 +47,5 @@ The included PDF report documents each phase of the project, including schema di
 
 ## License
 
-This project is provided for educational and demonstration purposes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
